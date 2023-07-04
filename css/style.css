@@ -50,7 +50,6 @@ p{
 
 #navbar{
 	width: 100%;
-	position: fixed;
 	z-index: 9999999999;
 	background:#3D3D3D;
 }
